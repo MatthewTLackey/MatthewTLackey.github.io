@@ -1,4 +1,4 @@
 MatthewTLackey.github.io
 ========================
 
-GitHub Pages Repository
+Visit http://matthewtlackey.github.io/ to see this page in action.
