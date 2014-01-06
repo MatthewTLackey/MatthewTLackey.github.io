@@ -1,0 +1,69 @@
+body{
+  position: relative;
+
+}
+
+.top_bar{
+width: 100%;
+}
+
+.container{
+  width: 100%;
+  margin: auto;
+}
+
+.headline{
+  font-size: 3em;
+  font-family: Museo Sans, sans-serif;
+  background-color: rgba(0, 0, 0, 0.541176);
+  width: 75%;
+  margin: auto;
+  
+
+}
+
+h1{
+  text-align: center;
+  color: white;
+
+}
+
+a{
+  color: white;
+}
+
+p{
+  padding: 8px;
+}
+
+.symbol{
+  height: 70px;
+  clear: both;
+  position: relative;
+  margin-left: 25%;
+}
+
+.profile_pic{
+  width: 100%;
+  margin: 0px;
+  margin-top: -50px;
+  z-index: -1;
+  position: absolute;
+}
+
+.content{
+  float: left;
+  font-family: Museo Sans, sans-serif;
+  background-color: rgba(0, 0, 0, 0.541176);
+  width: 40%;
+  margin-left: 3em;
+  color: white;
+  padding: 10px;
+}
+
+.subhead{
+  text-align: center;
+}
+
+
+
